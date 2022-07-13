@@ -1,10 +1,12 @@
 # nefis_yemek_tarifleri
 
-A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+‼️
+For the final version of the application, get the app-release.apk file in the apps folder.
 
 A few resources to get you started if this is your first Flutter project:
 
