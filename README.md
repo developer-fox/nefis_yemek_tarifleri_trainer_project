@@ -1,4 +1,4 @@
-# nefis_yemek_tarifleri
+# nefis_yemek_tarifleri_trainer_project
 
 ‼️
 For the final version of the application, get the app-release.apk file in the apps folder.
